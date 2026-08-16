@@ -1,13 +1,24 @@
-<div align="center">
-
 # Daniel Prost
 
-### IT · Infrastructure Automation · Self-Hosting
+System Administrator with a strong focus on **infrastructure, automation and reliable operations**.
 
-I'm an IT professional based in Germany with a strong interest in **Linux, infrastructure automation, containers, and self-hosted systems**.
+I work with both Linux and Windows environments and enjoy building systems that are practical, maintainable and easy to recover when something goes wrong.
 
-I enjoy building solutions that are **simple, reliable, secure, and easy to maintain**.
+## 🛠️ Focus Areas
 
-**Linux · Docker · Ansible · Python · Bash · Git · GitHub Actions**
+- Linux & Windows Server
+- Ansible & Infrastructure as Code
+- Docker & containerized workloads
+- Git & GitHub Actions
+- Monitoring, backup & recovery
+- Deployment automation & rollback strategies
 
-</div>
+## 🚀 Featured Project
+
+### [homelab-ops-blueprint](https://github.com/d-prost/homelab-ops-blueprint)
+
+A practical Docker Compose operations blueprint built around **Ansible, immutable deployments, functional verification and transactional rollback**.
+
+## 📚 Currently Exploring
+
+Deepening my knowledge in **Linux, automation, Kubernetes and infrastructure engineering**, with a strong preference for simple, reliable and reproducible solutions.
