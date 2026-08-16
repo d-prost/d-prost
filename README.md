@@ -1,24 +1,32 @@
 # Daniel Prost
 
-System Administrator with a strong focus on **infrastructure, automation and reliable operations**.
+System Administrator focused on **infrastructure engineering, automation, and reliable operations**.
 
-I work with both Linux and Windows environments and enjoy building systems that are practical, maintainable and easy to recover when something goes wrong.
+I work across Windows and Linux environments, with a practical background in systems administration and a growing focus on reproducible infrastructure, deployment safety, and recovery.
 
-## 🛠️ Focus Areas
+## Focus Areas
 
-- Linux & Windows Server
+- Windows Server, Active Directory & Group Policy
+- Linux administration & automation
+- VMware & virtualized infrastructure
 - Ansible & Infrastructure as Code
 - Docker & containerized workloads
 - Git & GitHub Actions
-- Monitoring, backup & recovery
-- Deployment automation & rollback strategies
+- Monitoring, backup & disaster recovery
+- Deployment verification & rollback strategies
 
-## 🚀 Featured Project
+## Featured Project
 
 ### [homelab-ops-blueprint](https://github.com/d-prost/homelab-ops-blueprint)
 
-A practical Docker Compose operations blueprint built around **Ansible, immutable deployments, functional verification and transactional rollback**.
+A public-safe Docker Compose operations blueprint built around **Ansible, immutable container image references, functional verification, and transactional configuration rollback**.
 
-## 📚 Currently Exploring
+It focuses on a problem I care about in infrastructure work: making changes **predictable, verifiable, and recoverable** without adding unnecessary operational complexity.
 
-Deepening my knowledge in **Linux, automation, Kubernetes and infrastructure engineering**, with a strong preference for simple, reliable and reproducible solutions.
+## Current Direction
+
+Deepening my practical experience in **Linux, automation, Kubernetes, networking, observability, and infrastructure engineering** while keeping reliability and maintainability at the center of the design.
+
+## Engineering Principles
+
+**Simple over clever. Reproducible over manual. Verified over assumed. Recoverable by design.**
