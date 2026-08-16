@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**d-prost/d-prost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Daniel Prost
 
-Here are some ideas to get you started:
+### IT · Infrastructure Automation · Self-Hosting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT professional based in Germany with a strong interest in **Linux, infrastructure automation, containers, and self-hosted systems**.
+
+I enjoy building solutions that are **simple, reliable, secure, and easy to maintain**.
+
+**Linux · Docker · Ansible · Python · Bash · Git · GitHub Actions**
+
+</div>
