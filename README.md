@@ -1,32 +1,24 @@
 # Daniel Prost
 
-System Administrator focused on **infrastructure engineering, automation, and reliable operations**.
+System Administrator focused on **infrastructure, automation and reliable operations**.
 
-I work across Windows and Linux environments, with a practical background in systems administration and a growing focus on reproducible infrastructure, deployment safety, and recovery.
+I work with Linux and Windows environments and enjoy building systems that are practical, maintainable and easy to recover.
 
-## Focus Areas
+## 🛠️ Focus Areas
 
-- Windows Server, Active Directory & Group Policy
-- Linux administration & automation
-- VMware & virtualized infrastructure
+- Linux & Windows Server
 - Ansible & Infrastructure as Code
 - Docker & containerized workloads
 - Git & GitHub Actions
-- Monitoring, backup & disaster recovery
-- Deployment verification & rollback strategies
+- Monitoring, backup & recovery
+- Deployment automation & rollback
 
-## Featured Project
+## 🚀 Featured Project
 
 ### [homelab-ops-blueprint](https://github.com/d-prost/homelab-ops-blueprint)
 
-A public-safe Docker Compose operations blueprint built around **Ansible, immutable container image references, functional verification, and transactional configuration rollback**.
+A practical Docker Compose operations blueprint built around **Ansible, immutable deployments, functional verification and transactional rollback**.
 
-It focuses on a problem I care about in infrastructure work: making changes **predictable, verifiable, and recoverable** without adding unnecessary operational complexity.
+## 📚 Currently Exploring
 
-## Current Direction
-
-Deepening my practical experience in **Linux, automation, Kubernetes, networking, observability, and infrastructure engineering** while keeping reliability and maintainability at the center of the design.
-
-## Engineering Principles
-
-**Simple over clever. Reproducible over manual. Verified over assumed. Recoverable by design.**
+Linux, automation, Kubernetes and infrastructure engineering.
